@@ -1,0 +1,13 @@
+# =============================================================================
+# requirements.txt
+#
+# Key libraries used in the original project.
+# =============================================================================
+
+Flask==2.2.2
+psycopg2-binary==2.9.5
+opencv-python==4.6.0.66
+
+# The project also utilized a machine learning library for object tracking,
+# such as 'ultralytics' for the YOLOv8 model.
+# ultralytics
